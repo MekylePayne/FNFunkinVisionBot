@@ -1,6 +1,6 @@
 # FNFunkinVisionBot - Zero-Delay FNF & OSUmania Autoplayer
 FunkinVision is a high-performance, computer vision-based autoplay bot for rhythm games like Roblox Funky Friday, Ro-Beats, and OSUmania.
-
+<img width="1919" height="40" alt="image" src="https://github.com/user-attachments/assets/901455d6-1ca8-4dad-98f3-e05a1e31de5b" />
 Instead of injecting code or reading game memory (which easily gets you banned), FunkinVision uses ultra-fast screen capture to read pixels on your screen and simulates hardware-level keyboard inputs with perfect, zero-delay timing. This method absolutely cannot get you banned, since it's client-side only! (Not even OSU!Mania detects)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)
