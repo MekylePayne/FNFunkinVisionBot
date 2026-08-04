@@ -9,7 +9,7 @@ Instead of injecting code or reading game memory (which easily gets you banned),
 
 Bot Working: (Click to open YouTube link)
 [![FNFunkinVisionBot Showcase!](https://img.youtube.com/vi/FfSp4aKSKhQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=FfSp4aKSKhQ)
-
+P.S: I've fixed the MS Counter overlapping the CPS.
 
 ---
 ## Features
